@@ -1,0 +1,5 @@
+{
+  "name": "Khaje Kernel Manager - SM_DIVAR",
+  "description": "Advanced system monitor and kernel manager dashboard for Snapdragon 680 (SM_DIVAR/Khaje) devices. Visualizes CPU, GPU, DDR, and Thermal telemetry based on system audit logs.",
+  "requestFramePermissions": []
+}
